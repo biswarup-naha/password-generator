@@ -1,7 +1,4 @@
 import { useState, useEffect, useCallback, useRef } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
 
 function App() {
   const [len, setLen] = useState(8);
